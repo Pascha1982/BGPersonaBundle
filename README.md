@@ -464,3 +464,4 @@ Credits
 
 The bundle structure and documentation partially based on FOSFacebookBundle by FriendsOfSymfony
 on any open questions or problems feel free to contact me directly or just open an issue ...
+
